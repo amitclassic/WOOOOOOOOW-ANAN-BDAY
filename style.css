@@ -1,0 +1,19 @@
+.body_backgorund 
+{
+    background-image:url('hOye.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-image:url('https://c.tenor.com/KwC1-HNDOnkAAAAM/happy-birthday-happy-birthday-to-you.gif');
+    border-style: ridge;
+    border-color: rgb(110, 159, 202);
+}
+
+button
+{
+    background-color: darkseagreen;
+}
